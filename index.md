@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome Adrian Udvuleanu's page
 
-You can use the [editor on GitHub](https://github.com/adikinhhh/adikinhhh.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, I'm Adrian.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I work as a Development Engineer at ING Romania.
 
-### Markdown
+When you are fitted in a sports car, life is just a race.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](https://images.caricos.com/b/bmw/2015_bmw_m4_coupe/images/1920x1080/2015_bmw_m4_coupe_62_1920x1080.jpg)
 
-```markdown
-Syntax highlighted code block
+### Social
 
-# Header 1
-## Header 2
-### Header 3
+Find me on [Linkedin](https://www.linkedin.com/in/adrian-udvuleanu-b91007183/)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adikinhhh/adikinhhh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
